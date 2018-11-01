@@ -1,2 +1,2 @@
 # python_automate
-Master Microsoft Excel Macros and Excel VBA: Udemy Course
+Automate the Boring Stuff with Python Programming: Udemy Course
