@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-name = 'Bob'
+name = 'Alice'
 age = 3000
 if name == 'Alice':
 	print ('Hi Alice')
