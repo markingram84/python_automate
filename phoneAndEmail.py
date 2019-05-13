@@ -40,5 +40,5 @@ for phoneNumber in extractedPhone:
     allPhoneNumbers.append(phoneNumber[0])
 
 #copy the extracted email to clipbaord
-results = '\n'.join(allPhoneNumbers) + '\n' + ''\n'.join(extractedEmail)
+results = '\n'.join(allPhoneNumbers) + '\n' + '\n'.join(extractedEmail)
 pyperclip.copy(results)
