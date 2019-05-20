@@ -6,4 +6,4 @@ def boxPrint(symbol, width, height):
 
     print(symbol * width)
 
-boxPrint ('**', 15, 5)
+boxPrint ('O', 15, 5)
